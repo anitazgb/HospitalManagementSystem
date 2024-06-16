@@ -1,0 +1,695 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\addappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\server\\hubs\\myhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:hubs\\myhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\hubs\\appointmnethub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:hubs\\appointmnethub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\server\\repositories\\sicknessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:repositories\\sicknessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\server\\db\\managmentsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:db\\managmentsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\server\\repositories\\issuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:repositories\\issuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\server\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\server\\controllers\\receptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:controllers\\receptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64727AB7-6825-4D84-B0D2-C334C1B4B6C6}|..\\HMS.Models\\HMS.Models.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms.models\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64727AB7-6825-4D84-B0D2-C334C1B4B6C6}|..\\HMS.Models\\HMS.Models.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms.models\\chatentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64727AB7-6825-4D84-B0D2-C334C1B4B6C6}|..\\HMS.Models\\HMS.Models.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms.models\\appointmententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\server\\controllers\\sicknesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:controllers\\sicknesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\server\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\server\\controllers\\issuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:controllers\\issuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\server\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\server\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\server\\db\\mongodbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00CFD56-76B7-466A-80CA-2B99F75BBB1E}|Server.csproj|solutionrelative:db\\mongodbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\patientmanagmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\patienthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\patientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\medicalinventorymanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\issueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\chathistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\appointmentschedulingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\adminchatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\addsicknessform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\addinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19094023-408B-4119-9F2F-F026D2F5FA7F}|..\\HMS\\HMS.csproj|c:\\users\\anita\\onedrive\\desktop\\dev420\\final project  hospital management system\\hospitalmanagementsystem\\hms\\forms\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SicknessRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Repositories\\SicknessRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SicknessRepository.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Repositories\\SicknessRepository.cs",
+              "RelativeToolTip": "Repositories\\SicknessRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:21:57.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmnetHub.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Hubs\\AppointmnetHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\AppointmnetHub.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Hubs\\AppointmnetHub.cs",
+              "RelativeToolTip": "Hubs\\AppointmnetHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:51:22.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyHub.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Hubs\\MyHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\MyHub.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Hubs\\MyHub.cs",
+              "RelativeToolTip": "Hubs\\MyHub.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwCwAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:49:24.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\AddAppointment.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\AddAppointment.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\AddAppointment.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\AddAppointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:17:21.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\LoginForm.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwEEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:49:46.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAF4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:52:05.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\RegistrationForm.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\RegistrationForm.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCEAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:03:03.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:09:52.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagmentSystemDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\DB\\ManagmentSystemDbContext.cs",
+              "RelativeDocumentMoniker": "DB\\ManagmentSystemDbContext.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\DB\\ManagmentSystemDbContext.cs",
+              "RelativeToolTip": "DB\\ManagmentSystemDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:56:55.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IssueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Repositories\\IssueRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IssueRepository.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Repositories\\IssueRepository.cs",
+              "RelativeToolTip": "Repositories\\IssueRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:19:04.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Repositories\\ChatRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ChatRepository.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Repositories\\ChatRepository.cs",
+              "RelativeToolTip": "Repositories\\ChatRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:51:57.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:58:02.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "Repositories\\AppointmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:51:53.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\RepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:56:08.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:01:19.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReceptionController.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Controllers\\ReceptionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReceptionController.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Controllers\\ReceptionController.cs",
+              "RelativeToolTip": "Controllers\\ReceptionController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:07:41.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IModel.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS.Models\\IModel.cs",
+              "RelativeDocumentMoniker": "..\\HMS.Models\\IModel.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS.Models\\IModel.cs",
+              "RelativeToolTip": "..\\HMS.Models\\IModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:41:35.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChatEntity.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS.Models\\ChatEntity.cs",
+              "RelativeDocumentMoniker": "..\\HMS.Models\\ChatEntity.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS.Models\\ChatEntity.cs",
+              "RelativeToolTip": "..\\HMS.Models\\ChatEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:15:47.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppointmentEntity.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS.Models\\AppointmentEntity.cs",
+              "RelativeDocumentMoniker": "..\\HMS.Models\\AppointmentEntity.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS.Models\\AppointmentEntity.cs",
+              "RelativeToolTip": "..\\HMS.Models\\AppointmentEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:05:04.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\CurrentUser.cs",
+              "RelativeToolTip": "..\\HMS\\CurrentUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:40:11.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SicknessController.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Controllers\\SicknessController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SicknessController.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Controllers\\SicknessController.cs",
+              "RelativeToolTip": "Controllers\\SicknessController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:09:30.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Controllers\\ReportController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:08:32.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IssueController.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Controllers\\IssueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IssueController.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Controllers\\IssueController.cs",
+              "RelativeToolTip": "Controllers\\IssueController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:07:17.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "Controllers\\InventoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:06:30.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:04:57.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MongoDBController.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\DB\\MongoDBController.cs",
+              "RelativeDocumentMoniker": "DB\\MongoDBController.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\Server\\DB\\MongoDBController.cs",
+              "RelativeToolTip": "DB\\MongoDBController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:57:25.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MedicalInventoryManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\MedicalInventoryManagementForm.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\MedicalInventoryManagementForm.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\MedicalInventoryManagementForm.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\MedicalInventoryManagementForm.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAgwIAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:54:39.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PatientForm.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\PatientForm.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\PatientForm.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\PatientForm.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\PatientForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:00:01.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PatientHistory.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\PatientHistory.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\PatientHistory.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\PatientHistory.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\PatientHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:00:35.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PatientManagmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\PatientManagmentForm.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\PatientManagmentForm.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\PatientManagmentForm.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\PatientManagmentForm.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwFsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:00:54.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\UserForm.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\UserForm.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\UserForm.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\UserForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:07:54.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IssueForm.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\IssueForm.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\IssueForm.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\IssueForm.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\IssueForm.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:47:47.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DoctorForm.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\DoctorForm.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\DoctorForm.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\DoctorForm.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\DoctorForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:46:29.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ChatHistory.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\ChatHistory.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\ChatHistory.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\ChatHistory.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\ChatHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:45:39.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ChatForm.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\ChatForm.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\ChatForm.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\ChatForm.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\ChatForm.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAgwG8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:42:16.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppointmentSchedulingForm.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\AppointmentSchedulingForm.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\AppointmentSchedulingForm.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\AppointmentSchedulingForm.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\AppointmentSchedulingForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:37:05.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\AdminForm.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\AdminForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:36:20.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdminChatForm.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\AdminChatForm.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\AdminChatForm.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\AdminChatForm.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\AdminChatForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:27:57.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddSicknessForm.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\AddSicknessForm.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\AddSicknessForm.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\AddSicknessForm.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\AddSicknessForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:27:24.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddInventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\AddInventoryItem.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\AddInventoryItem.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\AddInventoryItem.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\AddInventoryItem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:22:53.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\ReportForm.cs",
+              "RelativeDocumentMoniker": "..\\HMS\\Forms\\ReportForm.cs",
+              "ToolTip": "C:\\Users\\anita\\OneDrive\\Desktop\\DEV420\\Final Project  Hospital Management System\\HospitalManagementSystem\\HMS\\Forms\\ReportForm.cs",
+              "RelativeToolTip": "..\\HMS\\Forms\\ReportForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAADTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:03:42.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

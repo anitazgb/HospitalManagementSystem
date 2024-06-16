@@ -1,0 +1,24 @@
+C:\Users\Max1m\source\repos\HospitalManagementSystem\HMS.Models\bin\Release\net8.0\HMS.Models.deps.json
+C:\Users\Max1m\source\repos\HospitalManagementSystem\HMS.Models\bin\Release\net8.0\HMS.Models.dll
+C:\Users\Max1m\source\repos\HospitalManagementSystem\HMS.Models\bin\Release\net8.0\HMS.Models.pdb
+C:\Users\Max1m\source\repos\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\HMS.Models.csproj.AssemblyReference.cache
+C:\Users\Max1m\source\repos\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\HMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max1m\source\repos\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\HMS.Models.AssemblyInfoInputs.cache
+C:\Users\Max1m\source\repos\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\HMS.Models.AssemblyInfo.cs
+C:\Users\Max1m\source\repos\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\HMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\Max1m\source\repos\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\HMS.Models.dll
+C:\Users\Max1m\source\repos\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\refint\HMS.Models.dll
+C:\Users\Max1m\source\repos\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\HMS.Models.pdb
+C:\Users\Max1m\source\repos\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\ref\HMS.Models.dll
+C:\Users\anita\OneDrive\Desktop\DEV420\Final Project  Hospital Management System\HospitalManagementSystem\HMS.Models\bin\Release\net8.0\HMS.Models.deps.json
+C:\Users\anita\OneDrive\Desktop\DEV420\Final Project  Hospital Management System\HospitalManagementSystem\HMS.Models\bin\Release\net8.0\HMS.Models.dll
+C:\Users\anita\OneDrive\Desktop\DEV420\Final Project  Hospital Management System\HospitalManagementSystem\HMS.Models\bin\Release\net8.0\HMS.Models.pdb
+C:\Users\anita\OneDrive\Desktop\DEV420\Final Project  Hospital Management System\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\HMS.Models.csproj.AssemblyReference.cache
+C:\Users\anita\OneDrive\Desktop\DEV420\Final Project  Hospital Management System\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\HMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita\OneDrive\Desktop\DEV420\Final Project  Hospital Management System\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\HMS.Models.AssemblyInfoInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV420\Final Project  Hospital Management System\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\HMS.Models.AssemblyInfo.cs
+C:\Users\anita\OneDrive\Desktop\DEV420\Final Project  Hospital Management System\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\HMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\anita\OneDrive\Desktop\DEV420\Final Project  Hospital Management System\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\HMS.Models.dll
+C:\Users\anita\OneDrive\Desktop\DEV420\Final Project  Hospital Management System\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\refint\HMS.Models.dll
+C:\Users\anita\OneDrive\Desktop\DEV420\Final Project  Hospital Management System\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\HMS.Models.pdb
+C:\Users\anita\OneDrive\Desktop\DEV420\Final Project  Hospital Management System\HospitalManagementSystem\HMS.Models\obj\Release\net8.0\ref\HMS.Models.dll
